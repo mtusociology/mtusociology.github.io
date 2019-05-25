@@ -2277,6 +2277,49 @@ body {
 .cid-rqLaL9DWyN .team-item .item-caption {
   background: #232323;
 }
+.cid-rrw1w4ya2f {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #83e6da;
+}
+.cid-rrw1w4ya2f h4 {
+  width: 85%;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+.cid-rrw1w4ya2f p {
+  color: #767676;
+}
+.cid-rrw1w4ya2f .card-wrapper {
+  border-top: 1px solid #edcbd3;
+  background-color: #ffffff;
+  position: relative;
+  justify-content: unset;
+}
+.cid-rrw1w4ya2f .card-wrapper .card-box {
+  padding: 2rem 2rem 2rem 0;
+  width: 100%;
+}
+.cid-rrw1w4ya2f .card-wrapper .card-box .top-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.cid-rrw1w4ya2f .card-wrapper .card-box .bottom-line {
+  width: 85%;
+}
+@media (max-width: 767px) {
+  .cid-rrw1w4ya2f .card-wrapper .card-box .bottom-line {
+    width: 100%;
+  }
+  .cid-rrw1w4ya2f .card-wrapper .card-box .bottom-line p {
+    text-align: center;
+    margin: 1rem 0 0 0;
+  }
+}
+.cid-rrw1w4ya2f B {
+  color: #630f24;
+}
 .cid-rrddDgtBnQ {
   padding-top: 30px;
   padding-bottom: 45px;
@@ -2323,6 +2366,9 @@ body {
 }
 .cid-rrddDgtBnQ .card-title {
   color: #55b4d4;
+}
+.cid-rrddDgtBnQ B {
+  color: #630f24;
 }
 .cid-rqMgSQeEXF {
   padding-top: 15px;
