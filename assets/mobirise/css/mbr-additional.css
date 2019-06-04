@@ -1932,6 +1932,7 @@ body {
 }
 .cid-rsleQhLMvq .card-title {
   color: #045c21;
+  text-align: center;
 }
 .cid-rs4XWefRyY {
   padding-top: 30px;
@@ -5260,71 +5261,4 @@ body {
 }
 .cid-rqLaL9DWyN .team-item .item-caption {
   background: #232323;
-}
-.cid-rqKRZE7vU9 {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #232323;
-}
-@media (max-width: 767px) {
-  .cid-rqKRZE7vU9 .media-wrap {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
-}
-.cid-rqKRZE7vU9 .media-wrap .mbr-iconfont-logo {
-  font-size: 7rem;
-  color: #f36;
-}
-.cid-rqKRZE7vU9 .media-wrap img {
-  height: 6rem;
-}
-.cid-rqKRZE7vU9 .mbr-text {
-  color: #767676;
-}
-@media (max-width: 767px) {
-  .cid-rqKRZE7vU9 .footer-lower .copyright {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
-}
-.cid-rqKRZE7vU9 .footer-lower hr {
-  margin: 1rem 0;
-  border-color: #000;
-  opacity: .05;
-}
-.cid-rqKRZE7vU9 .footer-lower .social-list {
-  padding-left: 0;
-  margin-bottom: 0;
-  list-style: none;
-  display: flex;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
-}
-.cid-rqKRZE7vU9 .footer-lower .social-list .mbr-iconfont-social {
-  font-size: 1.3rem;
-  color: #232323;
-}
-.cid-rqKRZE7vU9 .footer-lower .social-list .soc-item {
-  margin: 0 .5rem;
-}
-.cid-rqKRZE7vU9 .footer-lower .social-list a {
-  margin: 0;
-  opacity: .5;
-  -webkit-transition: .2s linear;
-  transition: .2s linear;
-}
-.cid-rqKRZE7vU9 .footer-lower .social-list a:hover {
-  opacity: 1;
-}
-@media (max-width: 767px) {
-  .cid-rqKRZE7vU9 .footer-lower .social-list {
-    -webkit-justify-content: center;
-    justify-content: center;
-  }
-}
-.cid-rqKRZE7vU9 .copyright > p {
-  color: #ffffff;
 }
